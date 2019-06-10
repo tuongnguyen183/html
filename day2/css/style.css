@@ -1,0 +1,262 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    background-color: #3e5b99; 
+    height: 100px;
+    width: 100%;
+    
+}
+.logo{
+    float: left;
+    height:100px;
+    width: 50%;
+    
+    
+}
+.logo1{
+    margin: 20px auto 20px 300px;
+}
+.logo-img{
+    font-family: inherit;
+    font-size: 45px;
+    color: white;
+    font-style: unset;
+    height: 50px;
+    width: 100px;
+
+
+
+}
+a {
+     color: #3e5b99; 
+     text-decoration: none;
+
+}
+
+.login{
+    float: right;
+    height: 100px;
+    width: 50%;
+
+}
+.table{
+    
+    color: white;
+
+    height: 100px;
+    width:400px;
+    margin-left: 100px;  
+    
+}
+.login-for-mail{
+    padding-top: 10px;
+    font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif;
+    font-size: 12px;
+}
+td {
+    
+    padding-left: 15px;
+}
+.inputtext{
+  border:1px solid gray;
+  padding-bottom: 5px;  
+}
+.submit-button input{
+    background-color: #4267b2;
+    color: white;
+   border: 1px solid #29487d;
+   display: inline-block;
+   font-size: 12px;
+   font-weight: bold;
+   line-height: 20px;
+   padding: 2px 6px;
+   text-align: center;
+}
+.forgot a {
+    color: #9cb4d8;
+    font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif;
+    font-size: 12px;
+}
+.background{
+    background: #edf0f5;
+    
+}
+.content{
+    width: 1000px;
+    height: 600px;
+    margin: 0px auto;
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+   
+
+}
+.information{
+    float: left;
+    width: 50%;
+}
+.connect{
+    padding: 50px 0 30px;
+    font-size: 28px;
+    line-height: 36px;
+    font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif;
+}
+.list{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+
+}
+.list-img{
+    margin-right: 16px;
+
+}
+.list-info{
+width: 450px;
+font-size: 17px;
+margin-top: 20px;
+font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif;
+}
+.form{
+    float: right;
+    width: 50%;
+    margin-left: 50px;
+}
+.sign-up{
+padding: 20px 0 20px;
+}
+.sign-up-h2{
+    font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif ;
+    font-size: 36px;
+    margin-bottom: 5px;
+    font-weight: bold; 
+}
+.sign-up-p{
+    font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif;
+    font-size: 17px;
+}
+.signup-form{
+    margin: 0 auto 0 auto;
+    width: 450px;
+}
+.name{
+    display: flex;
+    margin-bottom: 10px;
+    width: 450px;
+   
+}
+.first{
+    width:50%;
+    float: left;
+ 
+}
+.last{
+    width: 50%;
+    float: right;
+}
+.text-name{
+    padding: 8px 20px 8px 8px;
+    font-size: 15px;
+    border-radius: 4px;
+    border: 1px solid grey;
+}
+.mobile{
+    padding: 8px 20px 8px 8px;
+    width: 100%;
+    font-size: 15px;
+    margin-right: 20px;
+    border-radius: 4px;
+    border: 1px solid grey;    
+}
+.birthday{
+    margin: 15px auto;
+}
+.birth{
+    font-size: 20px;
+    font-weight: bold;
+    color: grey;
+    margin-bottom: 10px;
+}
+.calendar{
+font-size: 15px;
+padding: 2px 35px 2px 2px;
+}
+.gender{
+    margin: 15px auto;
+}
+.gendertext{
+    font-size: 20px;
+    font-weight: bold;
+    color: grey;
+    margin-bottom: 10px;  
+}
+.gendercheck{
+    padding:10px;
+}
+.male-female{
+    padding-right: 10px;
+    font-size: 20px;
+}
+.byclick{
+    font-size: 13px;
+    font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif;
+    margin: 10px auto;
+    padding-right: 20px;
+}
+.button{
+    margin: 10px auto;
+}
+.sign-up-bt{
+    padding: 10px 60px ;
+    font-size: 20px;
+    color: white;
+    background: #69a74e;
+    border: 1px solid;
+    border-color: #2c5115;
+    border-radius: 4px;   
+}
+.footer{
+    margin: 5px auto;
+    width: 1000px;
+    
+}
+.language {
+    padding:8px;
+    display: flex;     
+}
+.language li{
+    float: left;
+    list-style-type: none;
+    margin-right: 15px;
+    font-size: 13px;
+    font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif; 
+}
+.line{
+    border-bottom: 1px solid #dddfe2; 
+    font-size: 1px;
+    margin-bottom: 5px;
+}
+.contentinfo{
+    padding: 8px;
+    display: flex;
+}
+.contentinfo li {
+    float: left;
+    list-style-type: none;
+    margin: 0 15px 5px 0 ;
+    font-size: 13px;
+    font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif;
+}
+.copyright{
+    margin-bottom: 20px;
+    padding:8px;
+    font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif;
+    font-size: 12px;
+}
+
+
+
+
+
